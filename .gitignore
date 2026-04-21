@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# OpenCV / recordings
+video.avi
+*.mp4
+
+# OS/editor
+.DS_Store
+.vscode/
+
