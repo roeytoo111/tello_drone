@@ -2,6 +2,10 @@
 
 Small collection of Python scripts for controlling a DJI Tello drone and doing simple computer-vision tasks (color tracking, face tracking, and Haar-cascade “weapon” detection demos).
 
+## Project demo
+
+- [LinkedIn post: gesture-controlled Tello](https://www.linkedin.com/posts/roey-turjeman-584788246_computervision-drones-dji-activity-7062679241259180032-yokL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADz7tTQBizBVsBPCufr8ugIvaXUZp77DhhA)
+
 ## Project layout
 
 ```text
